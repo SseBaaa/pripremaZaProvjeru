@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\provjeraZnjanjapriprema\provjeraZnjanjapriprema\bin\Debug\provjeraZnjanjapriprema.exe.config
+C:\Users\ucenik\source\repos\provjeraZnjanjapriprema\provjeraZnjanjapriprema\bin\Debug\provjeraZnjanjapriprema.exe
+C:\Users\ucenik\source\repos\provjeraZnjanjapriprema\provjeraZnjanjapriprema\bin\Debug\provjeraZnjanjapriprema.pdb
+C:\Users\ucenik\source\repos\provjeraZnjanjapriprema\provjeraZnjanjapriprema\obj\Debug\provjeraZnjanjapriprema.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\provjeraZnjanjapriprema\provjeraZnjanjapriprema\obj\Debug\provjeraZnjanjapriprema.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\provjeraZnjanjapriprema\provjeraZnjanjapriprema\obj\Debug\provjeraZnjanjapriprema.Form1.resources
+C:\Users\ucenik\source\repos\provjeraZnjanjapriprema\provjeraZnjanjapriprema\obj\Debug\provjeraZnjanjapriprema.Properties.Resources.resources
+C:\Users\ucenik\source\repos\provjeraZnjanjapriprema\provjeraZnjanjapriprema\obj\Debug\provjeraZnjanjapriprema.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\provjeraZnjanjapriprema\provjeraZnjanjapriprema\obj\Debug\provjeraZnjanjapriprema.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\provjeraZnjanjapriprema\provjeraZnjanjapriprema\obj\Debug\provjeraZnjanjapriprema.exe
+C:\Users\ucenik\source\repos\provjeraZnjanjapriprema\provjeraZnjanjapriprema\obj\Debug\provjeraZnjanjapriprema.pdb
